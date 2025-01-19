@@ -1,0 +1,4 @@
+[15.01.2025 20:35:21] An error occurred while registering the package: An error occurred while saving the entity changes. See the inner exception for details.
+[15.01.2025 20:39:00] An error occurred while registering the package: An error occurred while saving the entity changes. See the inner exception for details.
+[18.01.2025 12:20:38] An error occurred while registering the package: An error occurred while saving the entity changes. See the inner exception for details.
+[18.01.2025 12:21:07] An error occurred while registering the package: An error occurred while saving the entity changes. See the inner exception for details.
